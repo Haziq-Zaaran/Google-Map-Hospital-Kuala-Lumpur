@@ -1,4 +1,3 @@
-```markdown
 # Kuala Lumpur Hospitals Data Extraction Using Power BI
 
 ## Project Overview
@@ -65,20 +64,18 @@ A healthcare consulting firm has requested detailed information on hospitals in 
    - Handle missing values by imputation or removal.
 5. **CSV Export**:
    - Save the cleaned dataset as a CSV file using Power BI’s export functionality.
+---
+
+## Input
+
+![Google Map Hospitals in Kuala Lumpur](https://github.com/user-attachments/assets/06e6be94-ea3e-450d-b30f-8677de03e2ed)
+
 
 ---
 
-## Example Output
+## Output
 
-Below is an example of the cleaned and validated dataset extracted from Google Search:
-
-| Hospital Name                | Type     | Rating | Location                                    | Operation Hours        | Phone Number   |
-|------------------------------|----------|--------|---------------------------------------------|------------------------|----------------|
-| Gleneagles Hospital Kuala Lumpur | Private  | 4.2    | 286 & 288, Jalan Ampang, 50450 Kuala Lumpur | Open 24 hours          | +60-3-4141-3000 |
-| Prince Court Medical Centre    | Private  | 4.5    | 39, Jalan Kia Peng, 50450 Kuala Lumpur       | Open 24 hours          | +60-3-2160-0000 |
-| Kuala Lumpur General Hospital   | Public   | 3.8    | Jalan Pahang, 50586 Kuala Lumpur            | Open 24 hours          | +60-3-2615-5555 |
-
-*Note*: The above is sample data; actual results depend on the information available on Google Search.
+![Hospital in KL dataset](https://github.com/user-attachments/assets/4755f87f-4adc-405c-b994-ea33fc015239)
 
 ---
 
